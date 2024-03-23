@@ -8,5 +8,4 @@ Approach:
 By consolidating electronic asset data within a structured database environment, EMS enables organizations to gain immediate insights into electronic asset levels, monitor asset movements, and refine asset replenishment strategies. This contributes to improved operational efficiency, reduced stock shortages, lowered holding costs, and enhanced client satisfaction.
 
 Component Used:
--MySQL workbench
--Lucid chart
+MySQL workbench, Lucid chart
